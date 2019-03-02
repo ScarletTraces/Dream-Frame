@@ -325,7 +325,7 @@ button.button-38aScr.da-button.lookFilled-1Gx00P.colorBrand-3pXr91.sizeSmall-2cS
 /* - */
 .feedCarousel-3F1_Q-.carousel-1Mb2Ud::before {
     content: "";
-    background-image: url(https://raw.githubusercontent.com/CorbsEditor/Dream-Frame/master/resources/Activity1.png);
+    background-image: url(https://raw.githubusercontent.com/KorbsEditor/Dream-Frame/master/resources/Activity1.png);
     position: absolute;
     width: 100%;
     height: 740px;
@@ -685,7 +685,7 @@ img.splash-3N0nhD {
 }
 .content-2K7Ie9::before {
     content: "";
-    background-image: url(https://raw.githubusercontent.com/CorbsEditor/Dream-Frame/master/resources/Activity3.png);
+    background-image: url(https://raw.githubusercontent.com/KorbsEditor/Dream-Frame/master/resources/Activity3.png);
     height: 423px;
     width: 1290px;
     position: absolute;
@@ -1139,7 +1139,7 @@ img.image-3XsqGc {
     border-color: transparent;
 }
 .theme-dark .artworkSpotifySessionEnded-11d_If {
-    background-image: url(https://raw.githubusercontent.com/CorbsEditor/Dream-Frame/master/resources/SpotifyPartyOver.png);
+    background-image: url(https://raw.githubusercontent.com/KorbsEditor/Dream-Frame/master/resources/SpotifyPartyOver.png);
     position: absolute;
     top: 0px;
     left: 0px;
@@ -1178,7 +1178,7 @@ img.image-3XsqGc {
 }
 .theme-dark .members-1998pB::before {
     content: "";
-    background-image: url(https://github.com/CorbsEditor/Dream-Frame/blob/master/resources/VersionNumber.png?raw=true) !important;
+    background-image: url(https://github.com/KorbsEditor/Dream-Frame/blob/master/resources/VersionNumber.png?raw=true) !important;
     width: 180px;
     height: 30px;
     position: fixed;
