@@ -490,12 +490,12 @@ img.splash-3N0nhD {
 .selected-nT-gM3:before, .selected-nT-gM3:before {
     border-radius: 50px;
     content: " ";
-    height: 50px !important;
+    height: 54px !important;
     left: -2px;
     margin-top: -20px;
     position: absolute;
     top: 36% !important;
-    width: 50px !important;
+    width: 54px !important;
 }
 /* Server Ring - Unread */
 .unread-2OHH1w:before {
@@ -519,7 +519,7 @@ img.splash-3N0nhD {
     margin-top: -20px;
     position: absolute;
     top: 36% !important;
-    width: 53px;
+    width: 54px;
 }
 /* Add and Server Discovery */
 .theme-dark .circleIconButton-jET_ig {
